@@ -1,0 +1,236 @@
+Query,Tool
+"I want to know the comprehensive and up-to-date financial analysis, including factors such as revenue, expenses, profit margins, cash flow, and balance sheet, specifically for the multinational technology company Amazon.",FinanceTool
+Please provide a way to directly obtain the current gas fees on the Ethereum network.,FinanceTool
+Can you please provide me with the specific and up-to-date figure of the total value locked in the Compound protocol at this exact moment?,FinanceTool
+Calculate the drawdowns for the Fidelity Contrafund.,FinanceTool
+"Hi, can you help me find the price to earnings ratio for the Bored Ape Yacht Club NFT collection?",FinanceTool
+What's the current exchange rate from Brazilian Real to US dollars?,ExchangeTool
+I would like to convert a total of 500 Canadian dollars to Australian dollars.,ExchangeTool
+What is the value of BTC in USD?,ExchangeTool
+What is the overall sentiment for the EUR/USD currency pair?,ExchangeTool
+Can you tell me the current price of USD-BTC?,ExchangeTool
+"Hey Chatbot, what are the top political news stories from The Guardian?",NewsTool
+What's the most recent news in the US?,NewsTool
+Give me the latest news.,NewsTool
+"Please provide me with detailed news updates and the latest articles from the most renowned news outlets in the United Kingdom, ensuring coverage of a wide range of topics and interests.",NewsTool
+"Please provide me with a list of the currently trending Show HN projects, displaying the ones that are deemed most popular by users.",NewsTool
+"What are the physical, mental, and emotional benefits that individuals can experience as a result of regularly engaging in the practice of mindfulness meditation?",PolishTool
+Can you help me improve the tone of my AI-generated content? ,PolishTool
+Can you simplify the instructions for assembling this furniture piece?,PolishTool
+"This AI is incredible! But sometimes I feel like the responses can be a bit robotic. Can you make the AI's answers more human-like and conversational, please?",PolishTool
+"OMG, I can't believe how good Chatbot is at translating languages! Is it possible to make the translations sound more natural and as if it were written by a native speaker?",PolishTool
+"This is unacceptable! I demand immediate access to information about a US-based non-profit. Give me detailed data on its mission, key people, governance structure, ratings, and financial data immediately!",CharityTool
+I'm so frustrated with the lack of positive change. Are there any impactful nonprofits in my area and beyond that I can get involved with?,CharityTool
+I'm looking for information on non-profits in the United States.,CharityTool
+I want to find local nonprofits that help provide food and housing for those in need.,CharityTool
+"I would like to support a nonprofit organization that is dedicated to promoting arts and culture, enriching the community through various artistic disciplines such as visual arts, performing arts, music, dance, theater, literature, film, and other cultural activities.",CharityTool
+Display a map of Stonehenge in UK and mark the location using latitude and longitude coordinates.,MapTool
+I want to find a gym within a 5-mile radius from my location.,MapTool
+"I need a software or tool that can help me to visualize the given coordinates (-22.9068,-43.1729) on a map or graph.",MapTool
+I can't believe this Maps app doesn't generate a map with a marker! Fix it now!,MapTool
+Hello! I need directions to the nearest gas station from my current location in Chicago.,MapTool
+"I want to learn more about climate change specifically focusing on the underlying scientific principles, causes, impacts, and potential solutions.",CourseTool
+I am looking for a highly-qualified and experienced biology teacher who can provide quality education to my high schooler. Could you kindly assist me in finding someone suitable for this role?,CourseTool
+Where can I find top-quality online classes and teachers?,CourseTool
+"As a beginner in finance and investment, I would like to request for detailed information, guidance, and resources to help me navigate and understand the various concepts, strategies, and tools involved in this field.",CourseTool
+How can I access online lessons for language learning?,CourseTool
+"Where can I find the latest version of the product manual for JiggyApp that includes detailed instructions, specifications, troubleshooting tips, and diagrams to aid in the optimal usage and understanding of the application?",DataRetrievalTool
+Can you remind me of the name of that book I mentioned last week?,DataRetrievalTool
+What are the current marketing strategies being implemented by our team?,DataRetrievalTool
+Hello! I have an important meeting tomorrow at 10 am. Could you save this information for me?,DataRetrievalTool
+Hi there! Can you save my contact details for future reference?,DataRetrievalTool
+It's ridiculous that I have to wait for my daily astrological predictions. I need them immediately! ,StrologyTool
+What is the horoscope for Gemini on August 10th?,StrologyTool
+Hello Chatbot! I'm feeling curious about my future endeavors. Can you please provide me with daily astrological predictions specific to my sun sign?,StrologyTool
+I can't believe you haven't given me my daily astrological predictions yet! ,StrologyTool
+"Can you please provide the detailed horoscope reading specifically for Gemini individuals on June 12, 2022?",StrologyTool
+"I'm looking for a tool that allows me to add, remove, and view my to-do list easily. Any suggestions?",NotesTool
+"Can you show me my current list of reminders, including both upcoming and past reminders, their respective dates and times, and any associated notes or descriptions?",NotesTool
+Do you have something that will help me remember tasks?,NotesTool
+I need to remember to attend a very important team meeting with my colleagues at 10 am sharp on Thursday next week.,NotesTool
+I need to remember to attend a meeting at 10 am. Can you set a reminder for me?,NotesTool
+"Could you please generate flashcards, complete with images and detailed information, for a geography lesson focusing on famous landmarks around the world?",MemoryTool
+Show me the front of the next flashcard.,MemoryTool
+I want to optimize my flashcards. Any tips?,MemoryTool
+Can you create a flashcard for me about the causes of World War II?,MemoryTool
+How can I create flashcards?,MemoryTool
+I need information about California's laws regarding medical malpractice. Can you provide an overview?,LawTool
+Can you please provide me with a list of lawyers in Kyoto who specialize in intellectual property rights and are able to provide legal advice on this matter?,LawTool
+"Can you check and provide a detailed analysis regarding the legality of employers monitoring their employees' emails, specifically in terms of applicable laws, employee privacy rights, and any potential consequences or restrictions pertaining to such monitoring?",LawTool
+Can you recommend a lawyer who specializes in employment law in Japan? I need help as I have an issue with my employer.,LawTool
+What are the penalties for driving under the influence in California?,LawTool
+How can I draw a diagram?,ChartTool
+"Can you visualize and present in a visually appealing manner the various intricate steps and processes involved in the water cycle, showcasing the continuous and dynamic movement of water throughout the Earth's ecosystem?",ChartTool
+Create a graph showing the relationship between different programming languages.,ChartTool
+"Can you please provide a detailed explanation of the process of photosynthesis, accompanied by a diagram illustrating the key steps and components involved?",ChartTool
+Can you help me create a flowchart of my business processes?,ChartTool
+"Hey, I heard there was an earthquake in the Philippines recently. Can you provide me with details?",EarthquakeTool
+"Can you provide me with the most recent earthquake updates, including information about the magnitude, location, and potential impact of the earthquakes?",EarthquakeTool
+Can you tell me about seismic monitoring in the Philippines?,EarthquakeTool
+Tell me about the earthquakes in the Philippines!,EarthquakeTool
+Are there any specific regions in the Philippines that have experienced a significant number of earthquakes with a magnitude of 4 or greater in the past year?,EarthquakeTool
+Can I get some images of the most recent solar eclipse captured by NASA?,NASATool
+"Can you quickly search and display various high-resolution images of the awe-inspiring International Space Station, showcasing its striking exterior and mesmerizing interior?",NASATool
+How can I search for specific images and videos from NASA's library?,NASATool
+"Please show me a comprehensive collection of high-resolution images and videos depicting the iconic Apollo moon landing mission, capturing significant moments such as Neil Armstrong's first step on the lunar surface and the deployment of scientific experiments by the astronauts.",NASATool
+"I'm interested in original recordings from the Apollo missions, how can I find them?",NASATool
+"Can you fetch the complete registered office address, including street, city, postal code, and country, of a specific company from Companies House?",CompanyInfoTool
+I'm trying to find the registered office address of STU Corporation. Can you assist me with that?,CompanyInfoTool
+"I'm interested in the major subsidiaries of Johnson & Johnson, could you list them for me?",CompanyInfoTool
+Can you give me information on the current liabilities of GlaxoSmithKline?,CompanyInfoTool
+Can you tell me the number of employees at Amazon?,CompanyInfoTool
+I'm a recent graduate with limited work experience. Can you suggest how to make my resume stand out to employers?,ResumeTool
+"I need assistance in enhancing the content, design, and overall presentation of my resume, specifically tailored for an administrative assistant position.",ResumeTool
+Can you suggest improvements to my resume without me having to ask?,ResumeTool
+Can you provide me guidance on how to craft a compelling summary for my resume?,ResumeTool
+Can you provide tips on writing a compelling summary statement for my resume as a project manager?,ResumeTool
+"Create a meme about the challenges of online shopping, please.",MemeTool
+"Can you generate a funny meme for me depicting a hilarious scenario or joke, combining witty text with an amusing image, to add a touch of humor and entertainment to my day?",MemeTool
+Can you use AI to create a funny meme?,MemeTool
+"I would like a meme, preferably a funny one, that is directly related to the stress and struggle of studying for exams.",MemeTool
+Can you make a meme mocking Mondays?,MemeTool
+"Can you help me find a personalized gift for my best friend, who is extremely passionate about fitness and yoga, and would appreciate something that complements their active lifestyle and interests?",GiftTool
+I need suggestions for a business gift to impress a potential client.,GiftTool
+"Can you help me find a unique and thoughtful gift for a newborn baby boy born to my cousin, James, who has a passion for dinosaurs and outer space?",GiftTool
+"Ugh, I need some gift ideas for my best friend. Can you help? ",GiftTool
+I'm looking for a gift for my husband who loves adventure. Any suggestions?,GiftTool
+"I'm looking for the best laptop under $1000, specifically seeking recommendations from reputable technology review websites to ensure accurate and expert advice.",PDF&URLTool
+"I'm having trouble uploading my document, can you help me resolve the issue?",PDF&URLTool
+Can you provide any information about the website?,PDF&URLTool
+"Is it possible for the website to convert all the content, including text, images, and formatting, from this specific webpage into a high-quality PDF document that retains the same layout and appearance as the original webpage?",PDF&URLTool
+Please provide more information about the specific features and functionalities offered by magicform.ai.,PDF&URLTool
+Could you give me a summary of the YouTube video?,VideoSummarizeTool
+I'm so tired of watching long videos. Can you summarize this one for me?,VideoSummarizeTool
+"Hey Chatbot, I stumbled upon a fascinating documentary on quantum physics. Can you provide a summary of the main concepts discussed?"" ",VideoSummarizeTool
+Can you summarize the key points from this YouTube video about baking a chocolate cake?,VideoSummarizeTool
+Could you help me understand the concept from this educational video I found on Daily Motion?,VideoSummarizeTool
+"I need a filter, specifically designed for food photography, that can effectively enhance the colors in my images, bringing out the vibrant and appetizing tones of the food.",MediaModifyTool
+Rotate this image 90 degrees clockwise.,MediaModifyTool
+Can you please resize this image to a dimension of 1200 pixels by 800 pixels and save it in JPEG format for me?,MediaModifyTool
+Can you help me find a filter to make my photo look vintage?,MediaModifyTool
+Is it possible to blur parts of an image with this feature? ,MediaModifyTool
+I'm going on a picnic and I need lunch ideas. What should I make and what ingredients do I need? ,DietTool
+Can someone please provide specific and simple dinner recipes that can be prepared swiftly?,DietTool
+"Can you recommend a variety of meals that align with my specific dietary restrictions, which may include allergies, food intolerances, and personal preferences, while also ensuring they meet my nutritional needs by providing detailed information regarding their calorie content, macronutrient distribution, and potential allergens?",DietTool
+"I'm looking for an intelligent and interactive AI coach specifically designed for nutrition and diet, capable of providing personalized guidance and suggestions to help me make significant improvements in my eating habits.",DietTool
+"Sure, I can definitely assist you in tracking the number of calories you consume on a daily basis using a calorie tracking app or a food diary, allowing you to maintain a detailed record of your calorie intake throughout the day and helping you make informed decisions for a healthier lifestyle.",DietTool
+"I would like to develop a visually appealing and user-friendly online resume that effectively highlights my extensive qualifications, skills, and professional experience in order to stand out among potential employers.",WebsiteTool
+I'm planning to start a food blog but have no idea how to make a website and publish my recipes. Can you guide me?,WebsiteTool
+How can I create a professional-looking website?,WebsiteTool
+Can you show me a diverse range of visually appealing and user-friendly examples of websites that have been created using this state-of-the-art and advanced AI plugin?,WebsiteTool
+Is there a way to quickly setup my website using AI?,WebsiteTool
+"Can you please provide more information about the ""healthandwellness.org"" domain name, such as the registrar or any specific requests related to its existence?",URLTool
+"Can you please assist me by checking the availability of the following domains - example.com, mywebsite.net, and beststore.org?",URLTool
+"This is ridiculous, every domain I try is unavailable!",URLTool
+"I need a unique and catchy domain name that reflects my passion for photography, which I can use specifically for showcasing my portfolio of stunning photographs.",URLTool
+"I want to secure a domain for my social media platform. Can you see if ""connectedcommunity.com"" is available?",URLTool
+I want to find budget-friendly hotels in Sapporo that are affordable and within my price range without compromising on quality or location.,TripTool
+How long does it take to travel by ferry from Sydney to Hobart?,TripTool
+"Can you find me a budget-friendly hotel in San Francisco that is conveniently located and offers comfortable accommodation, complimentary amenities, and a stunning view of the iconic Golden Gate Bridge?",TripTool
+Can you suggest some affordable stays in New York City for a family of four?,TripTool
+I'm furious with these exorbitant prices for hotel rooms! I demand a more affordable option for my upcoming trip!,TripTool
+"I want to plan a fun and exciting family vacation in Orlando, Florida, known for its numerous theme parks, such as Walt Disney World, Universal Orlando Resort, and SeaWorld.",TripAdviceTool
+How can I have an engaging journey?,TripAdviceTool
+"Are there any specific visa requirements, such as type of visa, duration of stay, and eligibility criteria, for traveling to Canada?",TripAdviceTool
+What are some popular tourist attractions in London that offer a variety of engaging activities and historical landmarks for visitors to explore?,TripAdviceTool
+What services do you offer to help me with my QEEQ travels?,TripAdviceTool
+"Could you please suggest a captivating and intricate fantasy book series that is filled with mesmerizing world-building, complex characters, and engaging plot twists?",BookTool
+"Is it possible to filter the search results by author, publication date, and any other relevant criteria on Wikidocs using this plugin, in order to find specific and recent information?",BookTool
+"Can you recommend a colorful and engaging picture book with vivid illustrations and informative facts about various animals, specifically designed for the enjoyment and understanding of a curious 4-year-old child?",BookTool
+My child is not interested in reading. Can you recommend any books that might get them excited? ,BookTool
+"I love reading historical fiction novels which vividly portray the events, characters, and settings of specific time periods, allowing me to immerse myself in richly detailed narratives that bring history to life.",BookTool
+I'm in the mood for some good old-fashioned horror movies. Any recommendations?,MediaTool
+What is the most popular content right now?,MediaTool
+"This TV selection is terrible, I can't find anything I like!",MediaTool
+I'm in the mood for something funny. Can you recommend any comedy TV shows or movies?,MediaTool
+"Can you recommend a good TV show with compelling characters, an engaging plot, and high production value to watch?",MediaTool
+What are some popular podcasts in the music category?,PodcastTool
+"Can you give me a concise, yet detailed summary that includes all the key points and discussions covered in the latest episode of 'The Joe Rogan Experience' podcast?",PodcastTool
+Can you give me a quick summary of the latest episode of The Joe Rogan Experience podcast?,PodcastTool
+I'm so mad! Can't find any good podcasts on current events and news!,PodcastTool
+Can you recommend any podcasts about sports?,PodcastTool
+I need a playlist for my morning yoga session. Can you suggest calming and peaceful tracks?,MusicTool
+Can you recommend some popular and recent hip-hop tracks from artists based in the United Kingdom?,MusicTool
+I'm looking for popular K-pop tracks. Can you assist me?,MusicTool
+"I would like to discover a wide range of music from different parts of the world, with a specific interest in exploring regional Mexican songs.",MusicTool
+"I love acoustic covers, can you make a playlist exclusively with acoustic versions of popular songs?",MusicTool
+Can you recommend a first-person shooter game with realistic graphics?,GameTool
+"I need some specific and effective tips, strategies, and techniques to enhance my gameplay and increase my chances of winning in this strategy game.",GameTool
+How do I compare reviews for different games?,GameTool
+"Yes, could you please provide me with detailed information and access to a comprehensive game strategy guide specifically designed for the ""Final Fantasy VII Remake""?",GameTool
+"Is there a game strategy guide available for ""Final Fantasy VII Remake""?",GameTool
+What will the weather be like tomorrow in New York?,WeatherTool
+What is the weather forecast for tomorrow so that I can decide if I should bring an umbrella to work?,WeatherTool
+Show me the radar image for Los Angeles.,WeatherTool
+"Please provide me with the current weather conditions and forecast for Paris, France, including temperature, humidity, wind speed, and any precipitation information.",WeatherTool
+Will I need an umbrella tomorrow?,WeatherTool
+I need a restaurant with vegetarian options in Hiroshima.,RestaurantBookingTool
+All the restaurants in Japan are fully booked.,RestaurantBookingTool
+Can you help me locate a highly-rated restaurant in Japan with online reservations available for a party of four at 7 pm tomorrow?,RestaurantBookingTool
+"I want to try some unique dining experiences such as themed restaurants, immersive dining events, gastronomic adventures, or private chef's table experiences.",RestaurantBookingTool
+I'm in Japan and I want to find a restaurant with available reservations.,RestaurantBookingTool
+"I'm looking for a local bakery that sells a wide variety of freshly baked gluten-free products such as bread, pastries, cakes, and cookies.",local
+Where is the closest restaurant around me?,local
+"I have a nail appointment tomorrow, can you find a nearby nail salon that's open until 9pm?",local
+I need to find a reputable plumber urgently. Any suggestions for plumbing services in the area?,local
+I'm new in town and need a reliable auto repair garage. Could you help me find one?,local
+Can you help me find a rental property in Tokyo?,HouseRentingTool
+This is infuriating! I need assistance in finding a house for rent in Vancouver with at least 4 bedrooms and 3 bathrooms.,HouseRentingTool
+"I need immediate assistance in finding a pet-friendly apartment in the bustling city of Chicago, as I am currently in search of a suitable living space that allows me to accommodate my beloved furry companion.",HouseRentingTool
+Hey! I'm trying to find a one-bedroom condo in Vancouver within a price range of $2000-$2500 per month.,HouseRentingTool
+What paperwork do I need to fill out when renting a house for the first time?,HouseRentingTool
+Can you provide me with a list of real estate agents specializing in luxury properties in Chicago?,HousePurchasingTool
+Find me a three-bedroom house in Mississauga with a backyard.,HousePurchasingTool
+I'm so frustrated with the lack of options for sale in my neighborhood. ,HousePurchasingTool
+"I would like to receive a detailed list of off-the-plan properties available in Adelaide, including information about the nearby schools and supermarkets.",HousePurchasingTool
+"Please provide me with a selection of photographs featuring a variety of traditional houses found in the scenic countryside of the island of Mallorca, showcasing their unique architectural styles, design elements, and surrounding natural landscapes.",HousePurchasingTool
+"Can you please provide tips on how to create an impressive software developer resume that highlights relevant skills, showcases practical experience, and effectively communicates technical proficiencies, such as programming languages, frameworks, and tools utilized?",JobTool
+I'm interested in remote job opportunities. Can you help me with that?,JobTool
+"I'm looking for software development jobs in Tokyo, Japan.",JobTool
+"I'm interested in working with decentralized technologies and would like to learn more about the implementation and development processes surrounding blockchain, distributed systems, and peer-to-peer networks. Additionally, I am keen on understanding the potential applications and challenges within the decentralized space.",JobTool
+"I'm actively searching for well-established and engaging software development job opportunities specifically in Tokyo, Japan, which align with my skills, expertise, and career goals.",JobTool
+"As a beginner in React.js, I am requesting detailed guidance on the step-by-step process of creating functional components.",RepoTool
+I need your help in inspecting this public repository on GitLab. [GitLab repo HTTPS link],RepoTool
+"I'm looking for a JavaScript code snippet that generates a random number between 1 and 10. Specifically, I need the code to be efficient and reliable, ensuring that every possible number between 1 and 10 has an equal chance of being generated.",RepoTool
+Can you help me get the README file for a repository?,RepoTool
+"The user is requesting an example in Python that uses the ""map"" function to apply a transformation to each element of a list.",RepoTool
+Can you help me find a summary of the latest research on climate change and its impact on ecosystems?,ResearchFinder
+"Can you assist me in finding scholarly peer-reviewed academic sources from reputable journals and databases, specifically related to human behavior and psychology, that cover a wide range of topics such as cognitive psychology, social psychology, developmental psychology, and abnormal psychology?",ResearchFinder
+"I need to write a comprehensive research paper that extensively explores the role and impact of artificial intelligence in healthcare, covering various aspects such as its applications, benefits, limitations, ethics, challenges, and future potential.",ResearchFinder
+Can you please provide me with a paper that specifically explores the various methods and approaches of natural language processing in the context of analyzing data from social media platforms?,ResearchFinder
+"Can you find me some recent academic papers, published within the past two years, focusing on the advancements and current state of self-driving cars, including their safety measures, potential risks, and regulatory frameworks?",ResearchFinder
+"I want to explore the impact of social media on society, can you provide some scientific articles on this topic?",ResearchHelper
+Can you help me find research papers on climate change?,ResearchHelper
+Why is it so difficult to find relevant papers? I need assistance with this! ,ResearchHelper
+"Can you find any recent peer-reviewed studies published within the last five years that examine the relationship between moderate-intensity aerobic exercise, specifically focusing on activities like walking, swimming, and cycling, and cognitive function in older adults aged 65 years and above?",ResearchHelper
+"Search for recent peer-reviewed research papers published within the last five years that specifically focus on various applications and advancements within the field of artificial intelligence, including machine learning, natural language processing, computer vision, deep learning, robotics, and expert systems.",ResearchHelper
+I want to increase the visibility of my online store. Can you help me with SEO techniques for e-commerce websites?,SEOTool
+Can you provide me with an On-Page Analysis of a website?,SEOTool
+"Hey Chatbot, can you provide me with a report of my domain visibility for the past month?",SEOTool
+"and I would like to receive a variety of user requests related to gardening tips, advice on plant care, recommended tools and equipment, suggestions for organic gardening practices, and ideas for creating beautiful outdoor spaces.",SEOTool
+I'm starting a new website and I want to make sure it ranks well in search results. Could you assist me in generating relevant keywords?,SEOTool
+"Can you assist me by providing recommendations and options for a fitness tracker that includes heart rate monitoring features, ensuring it comes at a reasonable price point?",ProductSearch
+I am seeking to purchase a camera that has a high-resolution sensor capable of capturing images with exceptional clarity and detail.,ProductSearch
+"Hi there! I'm currently shopping for a range of home appliances, including kitchen appliances like refrigerators, stoves, and microwaves, as well as essential household appliances like washing machines and vacuum cleaners.",ProductSearch
+"This store doesn't have any fashionable clothes, can you find me some?",ProductSearch
+Can you find me a reliable online store that sells secondhand electronics in Japan?,ProductSearch
+"I can't believe how expensive this store is! I need some coupon codes to save some money."" ",Discount
+I'm looking for discounts on clothing and accessories. Can you find me any coupons or deals from fashion retailers?,Discount
+"I'm so angry! Today best deals, I can't find any good discounts anywhere!",Discount
+Can you please provide me with information about any ongoing promotions for fashion and clothing brands?,Discount
+"I'm planning to do some online shopping today and I am looking forward to explore different websites, compare prices, and find the best deals for the items on my wishlist.",Discount
+Can you provide me with the current list of top-rated smartphones available on Amazon?,Review
+I'm redecorating my living room and need a new sofa. Can you assist me in finding affordable options with good customer reviews?,Review
+"Can you thoroughly analyze and evaluate the reviews, ratings, and feedback available for various smartphones, effectively compare them in terms of features, performance, reliability, user satisfaction, and overall value for money, and subsequently provide me with expert recommendations to assist in making an informed and decisive purchase decision?",Review
+Can you suggest a reliable coffee machine with good customer reviews on Amazon that has a budget-friendly price range and offers a wide variety of features for brewing customized coffee?,Review
+"Can you thoroughly analyze and evaluate the reviews of various SSDs, taking into consideration factors such as performance, reliability, durability, storage capacity, and user satisfaction, and provide a precise recommendation declaring the absolute best SSD available in the market?",Review
+I can't decide whether to get a Tesla Model 3 or a Chevy Bolt. Could you help me compare them?,ProductComparison
+Can you help me sort through the options for DSLR cameras? I've narrowed it down to the Nikon D750 and Canon 5D Mark IV.,ProductComparison
+Can you help me compare prices for smartphones in Australia?,ProductComparison
+I’m trying to choose a mattress. Can you compare the Purple mattress with Casper for me?,ProductComparison
+Could you compare Samsung Galaxy Tab S6 and Apple iPad Pro for me? I am considering their performance and display.,ProductComparison
+I'm trying to have a smoother online shopping experience by utilizing a QR code. Can your tool provide that?,ShoppingAssistant
+I'm planning a hiking trip and need to buy some outdoor gear. Can you recommend some durable and waterproof products from Uniket?,ShoppingAssistant
+"To search for a specific product on Uniket, users can utilize the search bar located at the top of the homepage. By entering relevant keywords such as the desired product's name, brand, or category, users can narrow down their search and browse through a selection of matching products available on the Uniket platform.",ShoppingAssistant
+I've added a bunch of items to my online shopping cart and I'm struggling to organize it. Can you assist?,ShoppingAssistant
+I'm having trouble keeping track of all the items I've added to my cart. Could you help manage it?,ShoppingAssistant
